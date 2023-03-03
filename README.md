@@ -2,11 +2,11 @@
 
 ## Overview
 
-### The purpose of this module is for students to understand how to use javascript to change how websites can gather and filter through associated data. Also, students will use HTML to access the website to view the corresponding data. 
+The purpose of this module is for students to understand how to use javascript to change how websites can gather and filter through associated data. Also, students will use HTML to access the website to view the corresponding data. 
 
 ## Results
 
-### Students were able to introduce multiple different filters in order to narrow down the search results. These filters are in the list below. Depending on the parameters of the filtered search detailed results will be presented to the user. 
+Students were able to introduce multiple different filters in order to narrow down the search results. These filters are in the list below. Depending on the parameters of the filtered search detailed results will be presented to the user. 
 
 - Date
 
